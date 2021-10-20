@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using mindbox_стажировка;
 
-namespace ShapeTests2
+namespace ShapeTests
 {
     [TestClass]
 

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindbox_стажировка", "mindbox_стажировка\mindbox_стажировка.csproj", "{74EC91F2-8045-455F-9BC6-6F083E14F8F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeTests", "ShapeTests2\ShapeTests.csproj", "{D11B0106-3890-4DB7-A27C-E654821D38C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeTests", "ShapeTests\ShapeTests.csproj", "{D11B0106-3890-4DB7-A27C-E654821D38C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
